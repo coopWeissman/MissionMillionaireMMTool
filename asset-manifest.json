@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/MissionMillionaireMMTool/static/css/main.2f66df2a.chunk.css",
+    "main.js": "/MissionMillionaireMMTool/static/js/main.2cf47368.chunk.js",
+    "main.js.map": "/MissionMillionaireMMTool/static/js/main.2cf47368.chunk.js.map",
+    "runtime-main.js": "/MissionMillionaireMMTool/static/js/runtime-main.ffb2eb0a.js",
+    "runtime-main.js.map": "/MissionMillionaireMMTool/static/js/runtime-main.ffb2eb0a.js.map",
+    "static/css/2.1881a404.chunk.css": "/MissionMillionaireMMTool/static/css/2.1881a404.chunk.css",
+    "static/js/2.46ff4803.chunk.js": "/MissionMillionaireMMTool/static/js/2.46ff4803.chunk.js",
+    "static/js/2.46ff4803.chunk.js.map": "/MissionMillionaireMMTool/static/js/2.46ff4803.chunk.js.map",
+    "index.html": "/MissionMillionaireMMTool/index.html",
+    "static/css/2.1881a404.chunk.css.map": "/MissionMillionaireMMTool/static/css/2.1881a404.chunk.css.map",
+    "static/css/main.2f66df2a.chunk.css.map": "/MissionMillionaireMMTool/static/css/main.2f66df2a.chunk.css.map",
+    "static/js/2.46ff4803.chunk.js.LICENSE.txt": "/MissionMillionaireMMTool/static/js/2.46ff4803.chunk.js.LICENSE.txt",
+    "static/js/main.2cf47368.chunk.js.LICENSE.txt": "/MissionMillionaireMMTool/static/js/main.2cf47368.chunk.js.LICENSE.txt",
+    "static/media/marc.e8607287.jpg": "/MissionMillionaireMMTool/static/media/marc.e8607287.jpg",
+    "static/media/sidebar-1.0a127c58.jpg": "/MissionMillionaireMMTool/static/media/sidebar-1.0a127c58.jpg",
+    "static/media/sidebar-2.22f68ba5.jpg": "/MissionMillionaireMMTool/static/media/sidebar-2.22f68ba5.jpg",
+    "static/media/sidebar-3.e667b13e.jpg": "/MissionMillionaireMMTool/static/media/sidebar-3.e667b13e.jpg",
+    "static/media/sidebar-4.dd4b5581.jpg": "/MissionMillionaireMMTool/static/media/sidebar-4.dd4b5581.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ffb2eb0a.js",
+    "static/css/2.1881a404.chunk.css",
+    "static/js/2.46ff4803.chunk.js",
+    "static/css/main.2f66df2a.chunk.css",
+    "static/js/main.2cf47368.chunk.js"
+  ]
+}
